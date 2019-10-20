@@ -1,0 +1,33 @@
+{
+  "name": "pypi-info",
+  "version": "2.0.0",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "description": "A npm-package for getting information from a pypi-package",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dewittethomas/pypi-info.git"
+  },
+  "keywords": [
+    "API",
+    "REST",
+    "PyPI",
+    "npm",
+    "Thomas Dewitte",
+    "Dewitte Thomas",
+    "Thomas",
+    "Dewitte"
+  ],
+  "author": "Thomas Dewitte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dewittethomas/pypi-info/issues"
+  },
+  "homepage": "https://github.com/dewittethomas/pypi-info#readme"
+}
