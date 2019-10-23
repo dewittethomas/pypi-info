@@ -1,6 +1,6 @@
 {
   "name": "pypi-info",
-  "version": "2.0.0",
+  "version": "2.0.5",
   "dependencies": {
     "node-fetch": "^2.6.0"
   },
@@ -15,14 +15,29 @@
     "url": "git+https://github.com/dewittethomas/pypi-info.git"
   },
   "keywords": [
+    "PyPI-info",
+    "pypi-info",
     "API",
     "REST",
     "PyPI",
+    "pypi",
+    "node",
+    "client",
+    "fetch",
+    "node-fetch",
+    "url",
     "npm",
-    "Thomas Dewitte",
-    "Dewitte Thomas",
-    "Thomas",
-    "Dewitte"
+    "npm-package",
+    "package",
+    "python",
+    "python package",
+    "pypi-info",
+    "package-info",
+    "python-info",
+    "python-package-info",
+    "pypi-package-info",
+    "information",
+    "get"
   ],
   "author": "Thomas Dewitte",
   "license": "MIT",
