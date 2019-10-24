@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/pypi-info.svg)](https://www.npmjs.com/package/pypi-info)
 
-A npm-package for getting information from a pypi-package
+Get information about PyPI packages.
 
 ## Installation
 To install the package run this command:
@@ -13,17 +13,11 @@ npm install pypi-info
 
 ## Usage
 
-### getPackage
+### GET Package
 
 ```js
+const getPackage = require("pypi-info");
+
 getPackage("pypi-info")
-```
-
-Demo:
-
-```js
-const pypiInfo = require("pypi-info")
-
-pypiInfo.getPackage("pypi-info")
     .then((package) => console.log(package))
 ```
