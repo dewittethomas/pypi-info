@@ -1,6 +1,6 @@
 {
   "name": "pypi-info",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "dependencies": {
     "node-fetch": "^2.6.0"
   },
