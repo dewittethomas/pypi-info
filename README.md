@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/pypi-info.svg)](https://www.npmjs.com/package/pypi-info)
 
-Get information about PyPI packages.
+A simple tool to get information of pypi packages.
 
 ## Installation
 To install the package run this command:
