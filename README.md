@@ -16,8 +16,8 @@ npm install pypi-info
 ### GET Package
 
 ```js
-const pypi_info = require("pypi-info");
+const getPackage = require("pypi-info").getPackage;
 
-pypi_info.getPackage("ip-address")
+getPackage("ip-address")
     .then((package) => console.log(package))
 ```

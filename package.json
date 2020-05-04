@@ -1,6 +1,6 @@
 {
   "name": "pypi-info",
-  "version": "2.4.1",
+  "version": "2.4.2",
   "dependencies": {
     "request": "^2.88.2"
   },
