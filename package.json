@@ -2,7 +2,7 @@
   "name": "pypi-info",
   "version": "2.4.2",
   "dependencies": {
-    "request": "^2.88.2"
+    "node-fetch": "^2.6.1"
   },
   "description": "A simple tool to get information of pypi packages.",
   "main": "index.js",
